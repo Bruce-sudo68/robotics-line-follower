@@ -10,6 +10,10 @@ It’s a small project, but it shows that I’m serious about learning, experime
 - Reading “sensor” data by sampling pixel colors  
 - Implementing basic steering and feedback loops  
 - Debugging quirks like wobble and slowdown
+### Demo
+
+![Line-Following Robot Demo](Line-follow.gif)
+
 
 ### How to Run
 ```bash
